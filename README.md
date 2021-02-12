@@ -1,6 +1,6 @@
 ![Juliano Costa](https://raw.githubusercontent.com/julianojcs/julianojcs.github.io/master/apfjuliano.dev.png)
 
-# API GraphQL com NodeJS, Server Yoga GraphQL + MongoDB e Mongoose
+# API GraphQL com NodeJS, Server Yoga GraphQL, MongoDB e Mongoose
 
 Implemetação de um servidor que expôe uma API em GraphQL para frontend fazer um CRUD de usuário.
 
@@ -28,8 +28,6 @@ Implemetação de um servidor que expôe uma API em GraphQL para frontend fazer 
 Abra a url [http://localhost:4000/](http://localhost:4000/) e teste suas requisições:
 
 Queries and Mutations named.
-
-```
 
 Buscar um usuário com ID específico e retornar o seu nome, email e id:
 
@@ -69,4 +67,3 @@ query GET_USERS{
 ```
 
 Utilize o playground para fazer suas queries e mutations
-
